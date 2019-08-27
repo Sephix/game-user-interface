@@ -1,5 +1,6 @@
 import React from 'react';
 import { View, TextInput, Button } from 'react-native';
+import Text from 'react-native-web/dist/exports/Text';
 
 class Login extends React.Component {
     state = {
